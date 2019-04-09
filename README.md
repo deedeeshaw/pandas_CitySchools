@@ -1,4 +1,4 @@
-# pandas_CitySchools
+# CitySchools
 In this project I took two datasets in csv files; 'schools_complete' and 'students_complete'. 
 The schools_complete file had the name size (in terms of enrollment) and budget of 15 schools, district and charter.
 The student_complete file had 39000+ records of students; thier name, grade, school name, and math and reading scores.
